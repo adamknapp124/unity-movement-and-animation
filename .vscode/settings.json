@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Movement and Animation.sln"
+    "dotnet.defaultSolution": "unity-movement-and-animation.sln"
 }
